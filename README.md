@@ -17,8 +17,8 @@ Displays the current time, date, and a dynamic greeting based on the time of day
 ```bash
 git clone https://github.com/your-username/digital-clock.git
 ```
-2.Open index.html in any modern browser (Chrome, Firefox, Edge, etc.).
-3.Enjoy your clock!
+ 2.Open index.html in any modern browser (Chrome, Firefox, Edge, etc.).
+ 3.Enjoy your clock!
 
 ## 🛠️ Technologies Used
 - HTML5
